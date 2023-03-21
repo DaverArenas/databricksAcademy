@@ -5,3 +5,6 @@
 # COMMAND ----------
 print("Hello Databricks from visual Studio Code")
 
+# COMMAND ----------
+print("Hello Databricks from visual Studio Code v2")
+
